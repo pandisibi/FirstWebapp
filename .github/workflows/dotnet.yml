@@ -25,7 +25,7 @@ jobs:
     - name: Test
       run: dotnet test ${{github.workspace}}/WebApplication1/WebApplication1/WebApplication1.csproj --no-build --verbosity normal
     - name: publish
-      run: dornet publish ${{github.workspace}}/WebApplication1/WebApplication1/WebApplication1.csproj -c Release -o dotnetcorewebapp
+      run: dotnet publish ${{github.workspace}}/WebApplication1/WebApplication1/WebApplication1.csproj -c Release -o dotnetcorewebapp
     - name:  Deploy to azure Appservice plan
       uses: azure/webapps-deploy@v2
       with:
