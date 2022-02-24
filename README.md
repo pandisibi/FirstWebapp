@@ -1,0 +1,1 @@
+[![Board Status](https://historytestproject.visualstudio.com/04e946a3-cc12-41c9-bc0b-351b2f50a9e8/4fcc8622-9c0c-4030-aa48-82abf8769d70/_apis/work/boardbadge/d666882c-44b0-4116-b512-bdb6ab03fc3c)](https://historytestproject.visualstudio.com/04e946a3-cc12-41c9-bc0b-351b2f50a9e8/_boards/board/t/4fcc8622-9c0c-4030-aa48-82abf8769d70/Microsoft.RequirementCategory)
